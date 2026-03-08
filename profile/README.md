@@ -1,5 +1,11 @@
 <p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=S.E.N.T.I.N.E.L;Web3+Social+Trust+Infrastructure;Decentralized+Identity+%7C+AI+%7C+Blockchain" />
+
+</p>
+
+<p align="center">
+
 # 🛡️ S.E.N.T.I.N.E.L
 
 ### **Open Social Infrastructure for Web3**
@@ -8,14 +14,16 @@
 
 </p>
 
+---
+
 <p align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![LangChain](https://img.shields.io/badge/LangChain-AI-blueviolet)
 ![Polygon](https://img.shields.io/badge/Polygon-Web3-purple)
-![AI](https://img.shields.io/badge/AI-LangChain-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
@@ -24,78 +32,34 @@
 
 # 🌐 Overview
 
-**S.E.N.T.I.N.E.L** is a **Web3 social trust protocol** designed to build **relationship-based ecosystems** on blockchain.
+**S.E.N.T.I.N.E.L** is a **Web3 social trust protocol** designed to create **relationship-driven communities** powered by blockchain and AI.
 
-Instead of anonymous wallets interacting without context, the platform introduces a **trust graph**, **on-chain identity**, and **AI-driven insights**.
+Traditional Web3 systems treat wallets as anonymous identities.
+S.E.N.T.I.N.E.L introduces a **Social Passport**, **Trust Graph**, and **AI-powered growth layer** to bring **reputation and relationships on-chain**.
 
-💡 **Core Concept**
+> 💡 **Vision:**
+> Transform relationships into decentralized infrastructure.
 
-> Relationships become infrastructure.
-
-Through the **S.E.N.T.I.N.E.L SDK**, external platforms and dApps can **leverage the trust graph** to build social systems such as:
-
-* Referral networks
-* Reputation layers
-* Community trust scoring
-* Social identity verification
+Through the **S.E.N.T.I.N.E.L SDK**, other platforms can integrate **trust-based social graphs** into their own ecosystems.
 
 ---
 
 # ⚡ Core Features
 
 🔗 **Social Passport NFT**
-A unique on-chain identity representing a user's social footprint.
+A unique identity representing a user's social footprint.
 
 📊 **Trust Graph Engine**
-Maps relationships, referrals, and verified interactions.
+Maps relationships, referrals, and community activity.
 
 🤖 **AI Growth Agent**
-Suggests actions that improve reputation and community impact.
+Suggests actions to improve trust score and rewards.
 
 🎁 **Reward System**
-Users earn tokens for meaningful participation.
+Earn tokens for meaningful contributions.
 
 🧩 **Developer SDK**
-Allows external platforms to integrate trust-based social layers.
-
----
-
-# 🏗 Tech Stack
-
-## 🎨 Frontend
-
-* **Next.js**
-* **TypeScript**
-* **TailwindCSS**
-
-## ⚙ Backend
-
-* **Node.js**
-* **Express**
-* **PostgreSQL**
-* **Redis**
-
-## ⛓ Blockchain
-
-* **Solidity**
-* **Foundry**
-* **Polygon**
-
-## 📡 Indexing Layer
-
-* **The Graph Protocol**
-
-## 🤖 AI Layer
-
-* **LangChain**
-* **pgvector**
-* **LLM API**
-
-## 🚀 DevOps
-
-* **Docker**
-* **GitHub Actions**
-* **Railway / Fly.io**
+External platforms can integrate the trust graph.
 
 ---
 
@@ -103,28 +67,76 @@ Allows external platforms to integrate trust-based social layers.
 
 ```
 Users
-  │
-  ▼
-Frontend (Next.js + Tailwind)
-  │
-  ▼
-Backend API (Node.js / Express)
-  │
-  ├── PostgreSQL (user data)
-  ├── Redis (caching & queues)
-  │
-  ▼
+ │
+ ▼
+Frontend
+(Next.js + TailwindCSS)
+ │
+ ▼
+Backend API
+(Node.js + Express)
+ │
+ ├── PostgreSQL (User data)
+ ├── Redis (Caching / queues)
+ │
+ ▼
 Blockchain Layer
-(Solidity Smart Contracts on Polygon)
-  │
-  ▼
+(Solidity Smart Contracts)
+ │
+ ▼
+Polygon Network
+ │
+ ▼
 Indexing Layer
 (The Graph Protocol)
-  │
-  ▼
+ │
+ ▼
 AI Layer
 (LangChain + pgvector + LLM APIs)
 ```
+
+---
+
+# 🧠 Tech Stack
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react" />
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
+
+</p>
+
+---
+
+## ⛓ Blockchain
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity" />
+
+</p>
+
+Polygon Network
+Foundry Smart Contract Framework
+
+---
+
+## 🤖 AI Layer
+
+* LangChain
+* pgvector
+* LLM APIs
 
 ---
 
@@ -132,23 +144,23 @@ AI Layer
 
 ```
 1️⃣ Connect Wallet
-        │
-        ▼
+      │
+      ▼
 2️⃣ Join via Referral Link
-        │
-        ▼
-3️⃣ Mint Social Passport
-        │
-        ▼
+      │
+      ▼
+3️⃣ Mint Social Passport NFT
+      │
+      ▼
 4️⃣ Trust Engine Evaluates Activity
-        │
-        ▼
-5️⃣ AI Agent Suggests Improvements
-        │
-        ▼
+      │
+      ▼
+5️⃣ AI Growth Agent Suggests Improvements
+      │
+      ▼
 6️⃣ Check Reward Eligibility
-        │
-        ▼
+      │
+      ▼
 7️⃣ Claim Tokens
 ```
 
@@ -160,13 +172,13 @@ AI Layer
 
 * Wallet authentication
 * Social Passport NFT
-* Basic profile interface
+* Basic user profile interface
 
 ---
 
 ## 🔗 Phase 2 — Social Graph
 
-* On-chain relationship system
+* On-chain relationship tracking
 * Graph indexing via **The Graph**
 * Trust score computation engine
 
@@ -174,8 +186,8 @@ AI Layer
 
 ## 🎁 Phase 3 — Rewards & AI
 
-* Token reward system
-* Quest & mission framework
+* Token reward engine
+* Quest & mission system
 * AI Growth Agent integration
 
 ---
@@ -183,53 +195,67 @@ AI Layer
 ## 🌍 Phase 4 — Ecosystem
 
 * Developer SDK
-* Security audits
+* Smart contract security audits
 * Mainnet deployment
-* dApp ecosystem integrations
+* dApp integrations
 
 ---
 
 # 📈 Success Metrics
 
-## 🚀 Launch Goals
+### 🚀 Launch Targets
 
-* **1,000+ Wallets**
-* **500 Social Passports**
-* **50 Community Groups**
-* **10 dApp Integrations**
+* 1,000+ Wallets
+* 500 Social Passports
+* 50 Community Groups
+* 10 dApp Integrations
 
 ---
 
-## 📊 Growth Targets
+### 📊 Growth Goals
 
-* **10,000+ Users**
-* **100,000 Relationship Events**
-* **DAO Governance Activation**
+* 10,000+ Users
+* 100,000 Relationship Events
+* DAO Governance Activation
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=S-E-N-E-T-E-L&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-E-N-E-T-E-L&theme=tokyonight" />
+
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 # 🤝 Contributing
 
-S.E.N.T.I.N.E.L is an **open-source community project** and welcomes contributors from around the world.
+**S.E.N.T.I.N.E.L is an open-source community project.**
 
-You can contribute in multiple areas:
+We welcome developers, researchers, and builders.
 
-⚙ **Smart Contracts**
-🌐 **Frontend Development**
-🔌 **Backend APIs**
-📊 **Graph Data Analysis**
-🤖 **AI Agents**
-📚 **Documentation**
+### You can contribute in:
 
-Please read **`CONTRIBUTING.md`** before submitting pull requests.
+⚙ Smart Contracts
+🌐 Frontend Development
+🔌 Backend APIs
+📊 Graph Data Analysis
+🤖 AI Agents
+📚 Documentation
+
+See **`CONTRIBUTING.md`** for guidelines.
 
 ---
 
@@ -243,7 +269,7 @@ Please read **`CONTRIBUTING.md`** before submitting pull requests.
 
 <p align="center">
 
-### 🛡️ S.E.N.T.I.N.E.L
+## 🛡️ S.E.N.T.I.N.E.L
 
 **Building the Social Trust Layer for Web3**
 
