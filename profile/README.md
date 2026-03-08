@@ -2,20 +2,21 @@
 
 # 🛡️ S.E.N.T.I.N.E.L
 
-### **Social Trust Infrastructure for Web3**
+### **Open Social Infrastructure for Web3**
 
-⚡ Build • Connect • Verify • Reward
+⚡ **Build • Connect • Verify • Reward**
 
 </p>
 
 <p align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![AI](https://img.shields.io/badge/AI-Powered-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Polygon](https://img.shields.io/badge/Polygon-Web3-purple)
+![AI](https://img.shields.io/badge/AI-LangChain-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
@@ -23,186 +24,231 @@
 
 # 🌐 Overview
 
-**S.E.N.T.I.N.E.L** is a **Web3 social trust protocol** that enables decentralized applications to build **relationship-based communities** powered by **on-chain identity, trust graphs, and AI agents**.
+**S.E.N.T.I.N.E.L** is a **Web3 social trust protocol** designed to build **relationship-based ecosystems** on blockchain.
 
-Instead of anonymous wallets interacting blindly, S.E.N.T.I.N.E.L introduces a **Social Passport system** and **trust scoring engine**.
+Instead of anonymous wallets interacting without context, the platform introduces a **trust graph**, **on-chain identity**, and **AI-driven insights**.
 
-✨ **Key Idea**
+💡 **Core Concept**
 
 > Relationships become infrastructure.
 
-The **SDK allows other platforms to leverage the trust graph**, enabling ecosystems to build **verified social networks, referral systems, and reputation layers** on top of blockchain.
+Through the **S.E.N.T.I.N.E.L SDK**, external platforms and dApps can **leverage the trust graph** to build social systems such as:
+
+* Referral networks
+* Reputation layers
+* Community trust scoring
+* Social identity verification
 
 ---
 
 # ⚡ Core Features
 
-🔗 **Social Passport NFT**  
-Unique identity layer for every user.
+🔗 **Social Passport NFT**
+A unique on-chain identity representing a user's social footprint.
 
-🧠 **AI Growth Agent**  
-AI suggests actions to increase reputation and rewards.
+📊 **Trust Graph Engine**
+Maps relationships, referrals, and verified interactions.
 
-📊 **Trust Graph Engine**  
-Tracks relationships, referrals, and interactions.
+🤖 **AI Growth Agent**
+Suggests actions that improve reputation and community impact.
 
-🎁 **Reward Mechanism**  
-Earn tokens through verified participation.
+🎁 **Reward System**
+Users earn tokens for meaningful participation.
 
-🧩 **Developer SDK**  
-Integrate trust graphs into external dApps.
+🧩 **Developer SDK**
+Allows external platforms to integrate trust-based social layers.
 
 ---
 
 # 🏗 Tech Stack
 
 ## 🎨 Frontend
-- **Next.js**
-- **TypeScript**
-- **TailwindCSS**
+
+* **Next.js**
+* **TypeScript**
+* **TailwindCSS**
 
 ## ⚙ Backend
-- **Node.js**
-- **Express**
-- **PostgreSQL**
-- **Redis**
+
+* **Node.js**
+* **Express**
+* **PostgreSQL**
+* **Redis**
 
 ## ⛓ Blockchain
-- **Solidity**
-- **Foundry**
-- **Polygon Network**
+
+* **Solidity**
+* **Foundry**
+* **Polygon**
 
 ## 📡 Indexing Layer
-- **The Graph Protocol**
+
+* **The Graph Protocol**
 
 ## 🤖 AI Layer
-- **LangChain**
-- **pgvector**
-- **LLM API**
+
+* **LangChain**
+* **pgvector**
+* **LLM API**
 
 ## 🚀 DevOps
-- **Docker**
-- **GitHub Actions**
-- **Railway / Fly.io**
+
+* **Docker**
+* **GitHub Actions**
+* **Railway / Fly.io**
+
+---
+
+# 🏗 System Architecture
+
+```
+Users
+  │
+  ▼
+Frontend (Next.js + Tailwind)
+  │
+  ▼
+Backend API (Node.js / Express)
+  │
+  ├── PostgreSQL (user data)
+  ├── Redis (caching & queues)
+  │
+  ▼
+Blockchain Layer
+(Solidity Smart Contracts on Polygon)
+  │
+  ▼
+Indexing Layer
+(The Graph Protocol)
+  │
+  ▼
+AI Layer
+(LangChain + pgvector + LLM APIs)
+```
 
 ---
 
 # 📊 User Journey
 
-```text
-Connect Wallet
-      │
-      ▼
-Join via Referral Link
-      │
-      ▼
-Mint Social Passport
-      │
-      ▼
-Trust Engine Evaluates Activity
-      │
-      ▼
-AI Agent Suggests Improvements
-      │
-      ▼
-Check Reward Eligibility
-      │
-      ▼
-Claim Tokens
+```
+1️⃣ Connect Wallet
+        │
+        ▼
+2️⃣ Join via Referral Link
+        │
+        ▼
+3️⃣ Mint Social Passport
+        │
+        ▼
+4️⃣ Trust Engine Evaluates Activity
+        │
+        ▼
+5️⃣ AI Agent Suggests Improvements
+        │
+        ▼
+6️⃣ Check Reward Eligibility
+        │
+        ▼
+7️⃣ Claim Tokens
+```
 
+---
 
+# 🗺 Development Roadmap
 
-🗺 Development Roadmap
-🚧 Phase 1 — Foundation
+## 🚧 Phase 1 — Foundation
 
-Wallet authentication
+* Wallet authentication
+* Social Passport NFT
+* Basic profile interface
 
-Social Passport NFT
+---
 
-Basic user profile UI
+## 🔗 Phase 2 — Social Graph
 
-🔗 Phase 2 — Social Graph
+* On-chain relationship system
+* Graph indexing via **The Graph**
+* Trust score computation engine
 
-On-chain relationship tracking
+---
 
-Graph indexing via The Graph
+## 🎁 Phase 3 — Rewards & AI
 
-Trust score computation
+* Token reward system
+* Quest & mission framework
+* AI Growth Agent integration
 
-🎁 Phase 3 — Rewards & AI
+---
 
-Reward engine
+## 🌍 Phase 4 — Ecosystem
 
-Quest system
+* Developer SDK
+* Security audits
+* Mainnet deployment
+* dApp ecosystem integrations
 
-AI Growth Agent
+---
 
-🌍 Phase 4 — Ecosystem
+# 📈 Success Metrics
 
-Developer SDK
+## 🚀 Launch Goals
 
-Smart contract security audit
+* **1,000+ Wallets**
+* **500 Social Passports**
+* **50 Community Groups**
+* **10 dApp Integrations**
 
-Mainnet deployment
+---
 
-📈 Success Metrics
-🚀 Launch Targets
+## 📊 Growth Targets
 
-1,000+ Wallets
+* **10,000+ Users**
+* **100,000 Relationship Events**
+* **DAO Governance Activation**
 
-500 Social Passports
+---
 
-50 Community Groups
-
-10 dApp Integrations
-
-📊 Growth Targets
-
-10,000+ Users
-
-100,000 Relationship Events
-
-DAO Governance Activation
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" /> </p>
-🤝 Contributing
-
-S.E.N.T.I.N.E.L is an open-source community project.
-
-We welcome contributors from all domains.
-
-Areas you can contribute to
-
-⚙ Smart Contracts
-🧠 AI Agents
-📊 Graph Analysis
-🌐 Frontend UI
-🔌 Backend APIs
-📚 Documentation
-
-Please read CONTRIBUTING.md before submitting pull requests.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-You are free to use, modify, and distribute the project.
-
-🌍 Community
-
-🌐 Website — Coming Soon
-💻 GitHub — https://github.com/S-E-N-E-T-E-L
-
-💬 Discord — Coming Soon
+# 🐍 Contribution Snake
 
 <p align="center">
-🛡️ S.E.N.T.I.N.E.L
+  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" />
+</p>
 
-Building Open Social Infrastructure for Web3
+---
+
+# 🤝 Contributing
+
+S.E.N.T.I.N.E.L is an **open-source community project** and welcomes contributors from around the world.
+
+You can contribute in multiple areas:
+
+⚙ **Smart Contracts**
+🌐 **Frontend Development**
+🔌 **Backend APIs**
+📊 **Graph Data Analysis**
+🤖 **AI Agents**
+📚 **Documentation**
+
+Please read **`CONTRIBUTING.md`** before submitting pull requests.
+
+---
+
+# 🌍 Community
+
+🌐 Website — *Coming Soon*
+💻 GitHub — https://github.com/S-E-N-E-T-E-L
+💬 Discord — *Coming Soon*
+
+---
+
+<p align="center">
+
+### 🛡️ S.E.N.T.I.N.E.L
+
+**Building the Social Trust Layer for Web3**
 
 ✨ Decentralized Identity
 ✨ Trust-Based Communities
-✨ AI-Powered Growth
+✨ AI-Powered Social Growth
 
-</p> ```
+</p>
