@@ -113,7 +113,7 @@ MIT License
 
 # 🌍 Community
 
-Website:
+Website: Coming soon
 GitHub: https://github.com/S-E-N-E-T-E-L
 Discord: Coming soon
 
