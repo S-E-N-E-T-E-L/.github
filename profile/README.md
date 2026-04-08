@@ -6,7 +6,7 @@
 
 <p align="center">
 
-# 🛡️ S.E.N.T.I.N.E.L
+# 🛡️ Elink
 
 ### **Open Social Infrastructure for Web3**
 
