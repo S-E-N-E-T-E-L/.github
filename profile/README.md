@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=S.E.N.T.I.N.E.L;Web3+Social+Trust+Protocol;Decentralized+Identity+Infrastructure;AI+%7C+Blockchain+%7C+Social+Graph" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Elink;Web3+Social+Trust+Protocol;Decentralized+Identity+Infrastructure;AI+%7C+Blockchain+%7C+Social+Graph" />
 
 </p>
 
