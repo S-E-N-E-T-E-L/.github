@@ -6,7 +6,7 @@
 
 <p align="center">
 
-# 🛡️ Elink
+# 🛡️ ExtraOrdinary-link
 
 ### **Open Social Infrastructure for Web3**
 
@@ -40,11 +40,11 @@
 
 # 🌐 Overview
 
-**S.E.N.T.I.N.E.L** is a **Web3 social trust protocol** that builds **relationship-based infrastructure for decentralized communities.**
+**ELINK** is a **Web3 social trust protocol** that builds **relationship-based infrastructure for decentralized communities.**
 
-Traditional Web3 interactions rely on **anonymous wallets**.
+Traditional Web3 interactions rely on **anonymous wallets**
 
-S.E.N.T.I.N.E.L introduces:
+ELINK introduces:
 
 * 🪪 **Social Passport Identity**
 * 📊 **Trust Graph Engine**
@@ -288,7 +288,7 @@ Foundry Smart Contract Framework
 
 # 🤝 Contributing
 
-S.E.N.T.I.N.E.L is an **open-source community initiative**.
+ELINK is an **open-source community initiative**.
 
 We welcome developers, researchers, and Web3 builders.
 
@@ -314,14 +314,14 @@ MIT License
 # 🌍 Community
 
 🌐 Website — Coming Soon
-💻 GitHub — https://github.com/S-E-N-E-T-E-L
+💻 GitHub — https://github.com/ELINK
 💬 Discord — Coming Soon
 
 ---
 
 <p align="center">
 
-## 🛡️ S.E.N.T.I.N.E.L
+## 🛡️ ELINK
 
 **Building the Social Trust Layer for Web3**
 
